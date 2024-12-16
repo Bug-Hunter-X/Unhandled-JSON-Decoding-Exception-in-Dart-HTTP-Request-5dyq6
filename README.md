@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Dart asynchronous programming:  improperly handling JSON responses from HTTP requests.  The `bug.dart` file shows the flawed code, which doesn't adequately check response data before JSON decoding and lacks robust exception handling.  The `bugSolution.dart` file provides a corrected version with better error handling and validation.
